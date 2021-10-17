@@ -6,6 +6,6 @@ http://www.timeseriesclassification.com/description.php?Dataset=ECG200
 
 If you find this code useful in your research, please consider citing the blog:
 
-@misc{sagarautoencoder, Author = {Antonio Gonzalez}, Title = {Autoencoder for Detection of Myocardia Infarction}, Year = {2021}, Source = {https://github.com/antoniogonzalezai},
+@misc{antonioautoencoder, Author = {Antonio Gonzalez}, Title = {Autoencoder for Detection of Myocardia Infarction}, Year = {2021}, Source = {https://github.com/antoniogonzalezai},
 
 }
